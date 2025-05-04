@@ -38,4 +38,4 @@ There are two types of linking:
 By default, GCC performs *dynamic linking*. 
 
 ## Sources
-1. []()
+1. [Geeks for Geeks: Compiling a C Program: Behind the Scenes](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/#)
