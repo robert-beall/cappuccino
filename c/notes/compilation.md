@@ -9,7 +9,7 @@ There are four steps to C compilation:
 3. Assembly
 4. Linking
 
-![compilation process](images/Compilation-Process-in-C.png)
+![compilation process](../images/Compilation-Process-in-C.png)
 
 ### Pre-processing 
 In this phase, included files and macros are expanded, i.e. inserted into the code in places where they are referenced in the source code. The following are completed during pre-processing:
