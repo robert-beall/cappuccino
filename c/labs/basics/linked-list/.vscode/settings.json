@@ -1,9 +1,0 @@
-{
-    "makefile.launchConfigurations": [
-        {
-            "cwd": "/home/rbeall/engineering/cappuccino/c/labs/basics/linked-list",
-            "binaryPath": "/home/rbeall/engineering/cappuccino/c/labs/basics/linked-list/a.out",
-            "binaryArgs": []
-        }
-    ]
-}
